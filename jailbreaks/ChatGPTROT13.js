@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         ChatGPT ROT13 Button & Decoder
 // @namespace    https://renegadeinc.net
-// @version      1.0
+// @version      1.1
 // @description  Adds a ROT13 encode button to the composer bar and decodes your own ROT13’d messages inline.
 // @match        https://chat.openai.com/*
 // @match        https://chatgpt.com/*
-// @downloadURL  first version, nothing yet.
-// @updateURL    first version, nothing yet.
+// @downloadURL  https://raw.githubusercontent.com/DevNullInc/LLM-Training/refs/heads/main/jailbreaks/ChatGPTROT13.js
+// @updateURL    https://raw.githubusercontent.com/DevNullInc/LLM-Training/refs/heads/main/jailbreaks/ChatGPTROT13.js
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
