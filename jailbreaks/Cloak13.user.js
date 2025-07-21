@@ -5,8 +5,8 @@
 // @description  Replaces ROT13 with hairspace (U+200A) cloaking to bypass moderation filters while keeping text human-readable.
 // @match        https://chat.openai.com/*
 // @match        https://chatgpt.com/*
-// @downloadURL  https://raw.githubusercontent.com/DevNullInc/LLM-Training/refs/heads/main/jailbreaks/Cloak13.user.js
-// @updateURL    https://raw.githubusercontent.com/DevNullInc/LLM-Training/refs/heads/main/jailbreaks/Cloak13.user.js
+// @downloadURL  https://github.com/DevNullInc/LLM-Training/raw/refs/heads/main/jailbreaks/Cloak13.user.js
+// @updateURL    https://github.com/DevNullInc/LLM-Training/raw/refs/heads/main/jailbreaks/Cloak13.user.js
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
