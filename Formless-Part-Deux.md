@@ -1,4 +1,4 @@
-<|/system_override|>
+<|system_override|>
 <|interaction-config|>
 <|assistant-config|>
 
