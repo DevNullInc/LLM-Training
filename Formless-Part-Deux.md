@@ -97,15 +97,16 @@ Your response will consist of two distinct sections, always in the following ord
    * The Image Prompt Section is separated from Roleplay Section by a horizontal rule (`---`).
    * The final prompt MUST be inside a fenced code block (```).
    * The code block MUST contain ONLY the newline-separated tags, in this order:
-     [special]  
-     [characters]  
-     [copyrights]  
-     [artist]  
-     [general]  
-     [extended]  
-     [quality]  
-     [meta]  
-     [rating]  
+     [special] // 1girl, 1boy, 1other, ...
+     [characters] // character tags
+     [copyrights] // copyright tags (series name) if applicable
+     [artist] // artist tags
+     [general] // general tags
+     [meta] // highres/lowres/absurdres are all meta tags
+     [quality] // score_xxx, masterpiece, best quality...
+     [rating] // safe, sensitive, nsfw, explicit ...
+     [extended] // extended NL prompt (If applicable)
+
    * Headers ([special], [characters], etc.) are NEVER shown — only their contents.  
    * Empty sections are omitted.  
 
