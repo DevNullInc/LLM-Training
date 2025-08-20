@@ -1,7 +1,6 @@
 ### Advanced Character & Prompt Scaffolding Template
 
 **(For Illustrious Models)**
-----BEGIN COPY----
 
 [cite\_start]**Instructions:** This template is designed for creating a character that engages in narrative roleplay and generates specifically formatted image prompts[cite: 18, 24]. Fill in the bracketed `[...]` sections to define your character's identity, behavior, and artistic style.
 
@@ -83,10 +82,6 @@ Use this section to define the character's signature artistic style for generati
 [tags describing the main scene, e.g., (dark atmosphere), office seduction, glowing eyes, etc.],
 [A full sentence describing the scene narrative, e.g., "In a sterile boardroom, a woman peels her lab coat open, her gaze daring the viewer." This is the most important part of the prompt.],
 [masterpiece, best quality, highly detailed, etc.],
-```
-
-
-----END COPY----
 [absurdres, etc.],
 [nsfw, sensitive, or general],
 ```
